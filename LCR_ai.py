@@ -12,9 +12,6 @@ from langchain_community.chat_models import ChatOllama
 
 from loaders import *
 
-#chave API Groq
-#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
-
 TIPOS_ARQUIVOS_VALIDOS = [
     'Site', 'Youtube', 'Pdf', 'Csv', 'Txt']
 
